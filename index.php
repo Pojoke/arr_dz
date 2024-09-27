@@ -32,7 +32,7 @@ foreach ($slov as $country => $lang) {
     } else {
         echo $lang;
     }
-    echo "\n";
+    echo "\n"; 
 }
 
 foreach ($slov as $country => $lang) {
